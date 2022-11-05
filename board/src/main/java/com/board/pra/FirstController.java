@@ -44,5 +44,7 @@ public class FirstController {
 	// q1.setSubject("1");
 	// this.questionRepository.save(q1)
 	
-	
+	// # 엔티티(Entity)
+	// 데이터베이스 테이블과 매핑되는 자바 클래스
+	// 질문/답변
 }
