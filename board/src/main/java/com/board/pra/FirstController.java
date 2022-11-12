@@ -63,6 +63,8 @@ public class FirstController {
 	//  @After  : Test어노테이션 메소드 실행 후 반드시 실행하는 메서드
 	//  @Ignore : 테스트 skip
 	
-	
+	// # URL Prefix
+	// 공통된 URL에서 일부분은 해당 컨트롤러등에서 바로 적용할 수 있도록
+	// 설정하는 URL매핑규칙
 	
 }
