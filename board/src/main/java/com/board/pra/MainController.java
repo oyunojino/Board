@@ -32,7 +32,7 @@ public class MainController {
 	public String list(Model model) {
 		List<Question> questionList = this.questionservice.getList();
 		model.addAttribute("questionList", questionList);
-		return "question_list";
+		return "test_mapAPI";
 	}
 	
 	@RequestMapping(value = "/detail/{id}")
